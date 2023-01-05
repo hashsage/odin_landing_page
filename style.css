@@ -1,0 +1,139 @@
+
+.navibar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header {
+    background-color: #1F2937;
+    color: white;
+}
+
+a{
+    color: white;
+    
+}
+
+footer {
+    background-color: #1F2937;
+}
+
+.Hero_Main {
+    font-size: 48px; 
+    font: bolder;
+    color: #F9FAF8;
+}
+
+.Hero_Secondary{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+div{
+    padding: 10px;
+}
+
+.buton{
+    background-color: #3882F6;
+    padding: 10px;
+}
+
+.Header_Logo{
+    font-size: 24px ;
+    color:#F9FAF8;
+    font:bolder;
+    justify-content: flex-start;
+    padding: 10px;
+}
+
+.Other_Headers{
+    display: flex;
+    margin-left: auto;
+    color: white;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.newline{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px ;
+    align-items: center;
+}
+
+.random_info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.random_info h1{
+    font-size: 36px ;
+    color:#1F2937;
+    font:bolder;
+    padding: 5px;
+}
+
+.random_info h1{
+    padding: 0px;
+}
+
+.images_line{
+    display: flex;
+    justify-content: space-around;
+    padding:5px;
+}
+
+.images{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width:150px;
+}
+
+.images div{
+    padding: 0px;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px ;
+    color:#1F2937;
+    font-style: italic;
+    font: lighter;
+}
+
+.quote blockquote{
+    margin:0px;
+}
+
+.name{
+    text-align: end;
+    margin:0px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-right: 40px;
+}
+
+.foot{
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    margin: 50px 50px 50px 50px;
+}
+
+.foot div{
+    align-items: center;
+}
+
+.two{
+    align-items: center;
+}
+
+.buton2{
+    align-items: center;
+    border:2px white solid;
+}
